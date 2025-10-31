@@ -1,0 +1,13 @@
+/* src/app.css */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Make space for fixed navbar */
+body {
+  padding-top: 72px;
+  background-color: #f8fafc;
+}
+
+/* Small polish */
+.navbar-brand {
+  letter-spacing: 0.2px;
+}
